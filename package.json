@@ -1,0 +1,28 @@
+{
+  "name": "choodoo",
+  "version": "1.0.0",
+  "description": "Going through the Choo tutorial https://yoshuawuyts.gitbooks.io/choo/content/02_your_first_app.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "budo index.js --live --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zrrrzzt/choodoo.git"
+  },
+  "keywords": [],
+  "author": "Geir Gåsodden <geir.gasodden@pythonia.no> (https://github.com/zrrrzzt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zrrrzzt/choodoo/issues"
+  },
+  "homepage": "https://github.com/zrrrzzt/choodoo#readme",
+  "dependencies": {
+    "choo": "4.1.0",
+    "xtend": "4.0.1"
+  },
+  "devDependencies": {
+    "budo": "9.4.7"
+  }
+}
