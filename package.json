@@ -23,6 +23,6 @@
     "xtend": "4.0.1"
   },
   "devDependencies": {
-    "budo": "11.2.2"
+    "budo": "11.5.0"
   }
 }
