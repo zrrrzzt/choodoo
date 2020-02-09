@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/choodoo#readme",
   "dependencies": {
-    "choo": "7.0.0",
+    "choo": "7.1.0",
     "xtend": "4.0.2"
   },
   "devDependencies": {
